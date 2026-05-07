@@ -27,12 +27,6 @@ A robust desktop application built with **C++17** and **Qt 6** for comprehensive
 - **Animations**: Qt Property Animation for dynamic UI transitions.
 - **Storage**: File-based persistence using flat text files (`.txt`).
 
-## 📸 Screenshots
-*(Add your project screenshots here to make it more appealing!)*
-- `Screenshot 1: Welcome Screen`
-- `Screenshot 2: User Dashboard`
-- `Screenshot 3: Admin Portal`
-
 ## 🏁 Getting Started
 
 ### Prerequisites
@@ -49,22 +43,6 @@ A robust desktop application built with **C++17** and **Qt 6** for comprehensive
 3. **Configure**: Select your Qt Kit (e.g., Desktop Qt 6.7.x).
 4. **Build & Run**: Press `Ctrl + R`.
 
-## 📂 Project Structure
-```text
-├── Airline/
-│   ├── adminmenu.cpp/h/ui     # Admin Dashboard logic
-│   ├── adminportal.cpp/h/ui   # Admin Authentication
-│   ├── mainwindow.cpp/h/ui    # Splash screen & Welcome
-│   ├── res/                   # Images and Icons
-│   └── Airline.pro            # Qt Project configuration
-├── Userdetails.txt            # User data storage
-└── Admindetails.txt           # Admin data storage
-```
-
-## 🔐 Default Credentials
-For testing purposes, you can use the following:
-- **Admin Default PIN**: `1234` (Required for new admin registration)
-
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -78,4 +56,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-**Developed with ❤️ for the Airline Industry.**
