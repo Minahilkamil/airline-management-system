@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<RCC>
+  <qresource prefix="bg_images">
+    <file>admin_pic.png</file>
+    <file>logo_pic.png</file>
+    <file>admin_login.png</file>
+    <file>arrow.png</file>
+    <file>MAP.png</file>
+    <file>confirm.png</file>
+    <file>Badshahi Mosque.png</file>
+    <file>Passu.png</file>
+    <file>Attabad Lake.png</file>
+    <file>Dudipatsar Lake.png</file>
+    <file>Faisal Mosque.png</file>
+    <file>Karakoram Highway.png</file> 
+    <file>Kashmir Valley.png</file>
+    <file>Katpana desert.png</file>
+    <file>Neelum Valley.png</file>
+    <file>SeaView.png</file>
+  </qresource>
+</RCC>
